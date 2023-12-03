@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "1.a": "ts-node challenges/1.a.ts"
+    "1.a": "ts-node challenges/1.a.ts",
+    "1.b": "ts-node challenges/1.b.ts"
   },
   "author": "",
   "license": "ISC",
