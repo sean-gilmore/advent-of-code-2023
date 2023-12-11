@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "1.a": "ts-node challenges/1.a.ts",
-    "1.b": "ts-node challenges/1.b.ts"
+    "1.b": "ts-node challenges/1.b.ts",
+    "2.a": "ts-node challenges/2.a.ts"
   },
   "author": "",
   "license": "ISC",
